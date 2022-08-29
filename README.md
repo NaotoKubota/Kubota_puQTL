@@ -2,8 +2,10 @@
 
 This repository contains the data analysis code used in the manuscript:
 
-**Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits**
-[https://www.biorxiv.org/content/10.1101/2022.02.24.481875v1](https://www.biorxiv.org/content/10.1101/2022.02.24.481875v1)
+Mapping of promoter usage QTL using RNA-seq data reveals their contributions to complex traits.
+Naoto Kubota, Mikita Suyama.
+PLoS Comput. Biol. 18(8): e1010436. 2022.
+https://doi.org/10.1371/journal.pcbi.1010436
 
 ## Dependencies
 
