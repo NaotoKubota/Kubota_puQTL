@@ -7,6 +7,8 @@ Naoto Kubota, Mikita Suyama.
 PLoS Comput. Biol. 18(8): e1010436. 2022.
 https://doi.org/10.1371/journal.pcbi.1010436
 
+Here is the link of puQTL association results: https://zenodo.org/record/6269326
+
 ## Dependencies
 
 - Python (3.8.5)
